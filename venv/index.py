@@ -55,4 +55,4 @@ while optionSelected > 0 and optionSelected <= 7:
 print("Error this option does not exist")
 for n in range(0,3,1):
     print( "Bye...")
-print('________________')
+print(' _____________ ')
